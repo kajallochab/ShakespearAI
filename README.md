@@ -18,7 +18,7 @@ The project aims to develop a computational model capable of generating text in 
 
 ## Code
 
-The `code/` directory contains Python scripts for training the model, generating text, and evaluating performance. Detailed instructions for running the code are provided in the respective files.
+The `code/` directory contains Python scripts for training the model, generating text, and evaluating performance. Detailed instructions for running the code are provided in the respective file.
 
 ### Prerequisites
 
@@ -36,7 +36,7 @@ The `code/` directory contains Python scripts for training the model, generating
 
 ## Research Paper
 
-The `paper/` directory contains the LaTeX source files for the accompanying research paper. The paper provides detailed information on the methodology, experiments, findings, and future work related to the Shakespearean text generation project.
+The `paper/LaTeX files` directory contains the LaTeX source files for the accompanying research paper. The paper provides detailed information on the methodology, experiments, findings, and future work related to the Shakespearean text generation project.
 
 ## Future Work
 
@@ -46,10 +46,8 @@ The `paper/` directory contains the LaTeX source files for the accompanying rese
 
 ## Citation
 
-If you use the code or findings from this repository in your research, please cite the accompanying research paper:
-
-[Author(s), "Title of the Paper", Conference/Journal Name, Year]
+If you use the code or findings from this repository in your research, please cite.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [LICENSE.md](LICENSE.md) file.
