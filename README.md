@@ -14,7 +14,7 @@ The project aims to develop a computational model capable of generating text in 
 
 3. **Text Generation**: Use the trained model to generate new text samples in the style of Shakespeare, evaluating the quality and coherence of the generated output.
 
-4. **Evaluation and Analysis**: Assess the performance of the model through various metrics and qualitative analysis, comparing the generated text against authentic Shakespearean works.
+4. **Evaluation and Analysis**: Assess the model's performance through various metrics and qualitative analysis, comparing the generated text against authentic Shakespearean works.
 
 ## Code
 
