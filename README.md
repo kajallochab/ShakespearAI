@@ -42,7 +42,7 @@ The `paper/LaTeX files` directory contains the LaTeX source files for the accomp
 
 - **Fine-Tuning and Optimization**: Further optimize the model architecture and training procedures to enhance the quality of generated text.
 - **Interactive Text Generation**: Develop interactive systems that allow users to specify constraints and preferences for text generation, enabling more customized outputs.
-- **Extension to Other Literary Styles**: Apply the proposed approach to other languages and literary styles, exploring the computational modeling of cultural and historical materials.
+- **Extension to Other Literary Styles**: Apply the proposed approach to other languages and literary styles, exploring the computational modelling of cultural and historical materials.
 
 ## Citation
 
