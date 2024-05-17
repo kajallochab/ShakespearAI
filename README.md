@@ -4,7 +4,7 @@ This repository contains code and a research paper for generating Shakespearean-
 
 ## Overview
 
-The project aims to develop a computational model capable of generating text in the style of William Shakespeare. By training an LSTM-based neural network on a dataset of Shakespearean texts, the model learns to capture the linguistic nuances and stylistic elements of Shakespeare's writing. The resulting model can then be used to generate new text that closely resembles the eloquent prose and poetry of the Bard.
+The project aims to develop a computational model capable of generating text in the style of William Shakespeare. By training an LSTM-based neural network on a dataset of Shakespearean texts, the model learns to capture the linguistic nuances and stylistic elements of Shakespeare's writing. The resulting model can then generate new text that closely resembles the eloquent prose and poetry of the Bard.
 
 ## Project Workflow
 
